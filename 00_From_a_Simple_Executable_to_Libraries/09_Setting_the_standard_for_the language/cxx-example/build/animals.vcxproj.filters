@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Animal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Cat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Dog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Animal.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Cat.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Dog.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\Factory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\09_Setting_the_standard_for_the language\cxx-example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DDF964F4-4F0F-3F86-A865-02B81A878395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EA9E8B5B-47A6-3CD6-B30A-871092E82281}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

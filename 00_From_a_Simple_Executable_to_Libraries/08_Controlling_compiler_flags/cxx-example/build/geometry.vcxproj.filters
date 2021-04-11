@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_polygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_rhombus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_circle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_polygon.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_rhombus.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\geometry_square.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\08_Controlling_compiler_flags\cxx-example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{04C89964-DD65-3F37-9930-902715C3A271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{823E5714-D267-3D5F-9CC7-22F04CD62172}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

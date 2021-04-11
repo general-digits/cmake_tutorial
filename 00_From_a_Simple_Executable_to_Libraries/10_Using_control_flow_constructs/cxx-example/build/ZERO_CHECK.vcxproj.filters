@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\exterior\cmake\workshop\00_From_a_Simple_Executable_to_Libraries\10_Using_control_flow_constructs\cxx-example\build\CMakeFiles\f60c5303745c84d1f5345298992074b1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7340E345-3B20-3E35-886D-5374FD90667F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

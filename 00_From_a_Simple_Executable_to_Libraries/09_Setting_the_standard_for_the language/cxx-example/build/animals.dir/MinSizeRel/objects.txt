@@ -1,0 +1,3 @@
+D:/exterior/cmake/workshop/00_From_a_Simple_Executable_to_Libraries/09_Setting_the_standard_for_the language/cxx-example/build/animals.dir/MinSizeRel/Animal.obj
+D:/exterior/cmake/workshop/00_From_a_Simple_Executable_to_Libraries/09_Setting_the_standard_for_the language/cxx-example/build/animals.dir/MinSizeRel/Cat.obj
+D:/exterior/cmake/workshop/00_From_a_Simple_Executable_to_Libraries/09_Setting_the_standard_for_the language/cxx-example/build/animals.dir/MinSizeRel/Dog.obj

@@ -1,0 +1,4 @@
+
+If USE_LIBRARY is ON, MAKE_STATIC_LIBRARY defaults to OFF, while MAKE_SHARED_LIBRARY defaults to ON. So we can run this: 
+
+cmake -D USE_LIBRARY=OFF -D MAKE_SHARED_LIBRARY=ON ..
