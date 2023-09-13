@@ -4,7 +4,7 @@ set	BUILD_FOLDER_NAME=bin
 set PATH_TO_MINGW=%PATH_TO_SCRIPT%../../../tool/mingw64/bin
 set PATH_TO_MAKE=%PATH_TO_MINGW%/mingw32-make.exe
 set PATH_TO_C_COMPILER=%PATH_TO_MINGW%/gcc.exe
-set PATH_TO_CXX_COMPILER=%PATH_TO_MINGW%/g++.exe
+set PATH_TO_CXX_COMPILER=%PATH_TO_MINGW%/c++.exe
 set PATH_TO_CMAKE=%PATH_TO_SCRIPT%../../../tool/cmake/3.21.4/bin/cmake.exe
 set BUILD_COMMAND=%PATH_TO_C_COMPILER%
 
