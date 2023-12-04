@@ -3,11 +3,16 @@
 #include <iosfwd>
 #include <string>
 
-class Message {
+class Message 
+{
 public:
-  Message(const std::string &m) : message_(m) {}
+  Message(const std::string &m)
+  {
+    this->message_ = m;
+  }
 
-  friend std::ostream &operator<<(std::ostream &os, Message &obj) {
+  friend std::ostream &operator<<(std::ostream &os, Message &obj) 
+  {
     return obj.printObject(os);
   }
 
